@@ -1,61 +1,59 @@
 <!-- Profile README for GitHub -->
 
 <h1 align="center">Hi 👋, I'm Swatej Singh</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Full-Stack Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=💻+Full-stack+Developer;🔐+Cybersecurity+Learner;🚀+Open+Source+Contributor;⚡+Passionate+about+Tech+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=💻+Coding+My+Way+to+Excellence;🔐+Exploring+Cybersecurity;☁️+Cloud+%7C+AWS+Learner;📱+Building+Mobile+Apps;🚀+Open+Source+Contributor" />
 </p>
 
 ---
 
-### 🌟 About Me  
+### 👨‍💻 About Me
 - 🎓 B.Tech in **CSE (Cybersecurity)** @ PSIT Kanpur (Grad: 2026)  
-- 💻 Worked as **Web Development Intern @ CodSoft**  
-- 🔭 Building **ResQ – Domestic Violence Safety App** (React Native + Firebase)  
-- 🌱 Currently exploring **AWS & Cybersecurity Tools**  
-- 🎯 Goal: To become a **Skilled Software Engineer** contributing to impactful projects  
+- 🌟 Interned as a **Web Developer @ CodSoft**  
+- 🔭 Currently working on **ResQ – Domestic Violence Safety App** (React Native + Firebase)  
+- ☁️ Exploring **AWS Cloud** & **Cybersecurity Tools**  
+- ⚡ Fun fact: I love building **projects that solve real problems**  
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-**Frameworks & Tools:**  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-
----
-
-### 📌 Projects  
-🔹 **[ResQ – Domestic Violence Safety App](#)** (React Native, Firebase)  
-👉 Disguised calculator app with hidden SOS & chat features  
-
-🔹 **[Trash Trade Marketplace](https://swatejsr.github.io/TrashTradeMarketplace/)** (HTML, CSS, JS)  
-👉 Marketplace for buying/selling recyclable waste  
-
-🔹 **[Tech Nation - E-Commerce Website](https://github.com/swatejsr/Tech-Nation)** (HTML, CSS, JS)  
-👉 E-commerce platform with authentication & payments  
-
----
-
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swatejsr&show_icons=true&theme=radical" alt="stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swatejsr&theme=radical" alt="streak" height="165"/>  
+### 🚀 Tech Stack
+**Languages & Tools:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,firebase,aws,mysql,vscode,git,github" />
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+### 📂 Featured Projects
+🔹 **ResQ – Domestic Violence Safety App**  
+👉 *A disguised calculator app with SOS triggers & secure chat*  
+🛠 Tech: React Native, Firebase  
+
+🔹 **[Trash Trade Marketplace](https://swatejsr.github.io/TrashTradeMarketplace/)**  
+👉 *Marketplace for buying/selling recyclable waste*  
+🛠 Tech: HTML, CSS, JS  
+
+🔹 **[Tech Nation - E-Commerce Website](https://github.com/swatejsr/Tech-Nation)**  
+👉 *Basic e-commerce platform with authentication & payments*  
+🛠 Tech: HTML, CSS, JS  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swatejsr&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swatejsr&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swatejsr&bg_color=1a1b27&color=38bdae&line=70a5fd&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:swatejsingh91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/swatejsingh91/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -65,5 +63,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
