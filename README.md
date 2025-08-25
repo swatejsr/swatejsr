@@ -49,8 +49,8 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swatejsr&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swatejsr&theme=radical" alt="streak" height="165"/>
+  ![Swatej's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatejsr&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swatejsr&theme=radical)  
 </p>
 
 ---
